@@ -9,13 +9,11 @@
         border-radius:150px; 
     }
     </style>
-    
-    {% if site.data.theme.social.avatar %}
-    <img class="avatar" src="{{site.baseurl}}/images/avatar.jpg" height="80" width="80" id="avatar" alt="My photo"/>
+		{% if site.data.theme.social.avatar %}
+    <img class="avatar" src="/images/avatar.jpg" height="80" width="80" id="avatar" alt="My photo"/>
     {% else %}
     <img src="/logo.png" id="logo" alt="Blog logo"/>
     {% endif %}
-  
   </a>
   <h2>我是 <a href="/">{{ site.data.theme.name }}</a>.</h2>
   <div id="bio">
