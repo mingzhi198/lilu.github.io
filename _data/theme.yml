@@ -5,7 +5,7 @@ highlight_color: '#3498db'
 
 # Profile links on the left sidebar, leave blank to ignore
 social:
-  github: lilu618 
+  #github: lilu618 
   #bitbucket: philipj
   #hacker_news: 
   #stackexchange: 348619
@@ -17,7 +17,7 @@ social:
   #gplus: 110552447039675960964
   #gravatar: 86e6ff8f75f9daef42d53b7f8002fd95
   #flickr: johndoe
-  avatar: /images/avatar.png
+  avatar: /images/avatar.jpg
 # "Hi, I'm _______"
 name: 李陆 
 email: lilu_618@outlook.com 
